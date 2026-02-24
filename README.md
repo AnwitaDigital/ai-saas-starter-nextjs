@@ -34,16 +34,6 @@ Launching an AI product means wiring auth, billing logic, usage limits, backgrou
 
 ---
 
-## Screenshots
-
-| Dashboard | Generate | Admin |
-|-----------|----------|--------|
-| *dashboard.png* | *generate.png* | *admin.png* |
-
-Add screenshots under `docs/screenshots/` (e.g. `dashboard.png`, `generate.png`, `admin.png`) and replace the table above with markdown images.
-
----
-
 ## Architecture
 
 ```
@@ -182,4 +172,4 @@ MIT.
 
 ---
 
-**Built by [AnwitaDigital](https://anwitadigital.com) — Product Studio**
+**Built by [AnwitaDigital](https://anwitadigital.com) - Product Studio**
